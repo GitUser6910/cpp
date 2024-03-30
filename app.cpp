@@ -1,12 +1,9 @@
 #include <iostream>
 #include <cstdio>
+#include <cmath>
 
 using namespace std;
 
 int main() {
-	printf("Hello\n");
-	printf("How\n");
-	printf("HEEHE\n");
-	int a = 5;
-	printf("Ifep");
+	cout << "Калькулятор" << endl;
 }
